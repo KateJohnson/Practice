@@ -1,6 +1,12 @@
 Cm004
 ================
 
+This is a level one header
+==========================
+
+This is a level two header
+--------------------------
+
 This is a line of text.
 
 -   bullet 1
@@ -18,5 +24,9 @@ plot(x,y)
 summary(x)
 ```
 
-    ##     Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
-    ## -2.91400 -0.65180  0.05993  0.03405  0.65350  2.61600
+    ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+    ## -2.5640 -0.6027 -0.0124  0.0265  0.6264  2.8040
+
+``` r
+x <- rnorm(100)
+```

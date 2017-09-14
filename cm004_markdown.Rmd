@@ -1,6 +1,6 @@
 ---
 title: "Cm004"
-output: html_document 
+output: github_document 
 ---
 # This is a level one header
 
